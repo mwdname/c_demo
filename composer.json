@@ -1,0 +1,12 @@
+{
+    "name": "mwdname/c_demo",
+    "description": "composer des",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "name",
+            "email": "2154@qq.com"
+        }
+    ],
+    "require": {}
+}
